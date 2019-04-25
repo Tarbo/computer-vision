@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+# texbooks and other resources
+.pdf
+
